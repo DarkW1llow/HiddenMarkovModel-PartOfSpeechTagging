@@ -1,4 +1,4 @@
-### HiddenMarkovModel-PartOfSpeechTagging
+### HiddenMarkovModel-POS-Tagging
 
 # Hướng dẫn cài đặt:
 - Yêu cầu đã cài đặt:
